@@ -4,6 +4,8 @@
 # mathOperations
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/luciorq/mathOperations/workflows/R-CMD-check/badge.svg)](https://github.com/luciorq/mathOperations/actions)
 <!-- badges: end -->
 
 The goal of mathOperations is to …
